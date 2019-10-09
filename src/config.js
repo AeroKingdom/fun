@@ -181,7 +181,7 @@ module.exports = Object.seal({
 "minionCollideTeam": 0,
 "disableERTP": 1,
 "disableQ": 0,
-"serverMinions": 50,
+"serverMinions": 0,
 "defaultName": "minion",
 "minionsOnLeaderboard": 0,
 
