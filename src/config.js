@@ -114,7 +114,7 @@ module.exports = Object.seal({
 // virusMaxCells: Maximum cells a player is allowed to have from virus splits (0 for playerMaxCells)
 "virusMinSize": 120,
 "virusMaxSize": 160,
-"virusMaxPoppedSize": 60,
+"virusMaxPoppedSize": 100,
 "virusEqualPopSize": 0,
 "virusAmount": 50,
 "virusMaxAmount": 100,
@@ -161,7 +161,7 @@ module.exports = Object.seal({
 "playerSpeed": 10,
 "playerDecayRate": 0.002,
 "playerDecayCap": 0,
-"playerRecombineTime": 30,
+"playerRecombineTime": 0,
 "playerMaxNickLength": 15,
 "playerDisconnectTime": -1,
 "splitVelocity": 780,
